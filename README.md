@@ -6,6 +6,12 @@ It was built as part of the **Johns Hopkins Agentic AI course** and received a *
 
 Unlike traditional chatbots, this system is designed as a **goal-oriented, tool-driven agent** with constrained autonomy, traceability, and robust error handling.
 
+## 📊 Autonomous Financial Research Analyst – 
+
+
+**[Open the full rendered project walkthrough](./reports/Autonomous_financial_analyst_project.html)**
+
+
 ---
 
 ## 🔍 What This Agent Does

@@ -103,7 +103,7 @@ The complete implementation of the autonomous Financial Research Analyst Agent, 
 - End-to-end testing and validation
 
 📄 **Notebook:**  
-[`Autonomous_Financial_Research_Agent.ipynb`](./Autonomous_Financial_Research_Agent.ipynb)
+👉 **[Autonomous Financial Analyst – Full Notebook](./Autonomous_financial_analyst_project2%20(1).ipynb)**
 
 > Recommended: View directly in Jupyter, Colab, or VS Code for full interactivity.
 

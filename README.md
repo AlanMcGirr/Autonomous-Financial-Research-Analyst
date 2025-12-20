@@ -2,7 +2,7 @@
 ### Agentic AI • Tool Orchestration • Retrieval-Augmented Generation (RAG)
 
 This project implements a **production-style autonomous AI agent** designed to perform end-to-end financial research and investment analysis.  
-It was built as part of the **Johns Hopkins Agentic AI course** and received a **perfect score (20/20)**.
+It was built as part of the **Johns Hopkins Agentic AI course**
 
 Unlike traditional chatbots, this system is designed as a **goal-oriented, tool-driven agent** with constrained autonomy, traceability, and robust error handling.
 

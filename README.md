@@ -9,7 +9,7 @@ Unlike traditional chatbots, this system is designed as a **goal-oriented, tool-
 ## 📊 Autonomous Financial Research Analyst – 
 
 
-**[Open the full rendered project walkthrough](./Autonomous_financial_analyst_project.html)**
+**[Open the full rendered project by downloading the HTML file here](./Autonomous_financial_analyst_project.html)**
 ---
 [![Autonomous Financial Research Agent – Walkthrough](https://img.youtube.com/vi/BOFLue-HUks/0.jpg)](https://youtu.be/BOFLue-HUks)
 ## 🔍 What This Agent Does

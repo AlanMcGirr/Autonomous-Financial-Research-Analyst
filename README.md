@@ -11,7 +11,7 @@ Unlike traditional chatbots, this system is designed as a **goal-oriented, tool-
 
 **[Open the full rendered project walkthrough](./Autonomous_financial_analyst_project.html)**
 ---
-
+[![Autonomous Financial Research Agent – Walkthrough](https://img.youtube.com/vi/BOFLue-HUks/0.jpg)](https://youtu.be/BOFLue-HUks)
 ## 🔍 What This Agent Does
 
 Given a natural language query (e.g. *“Analyze NVIDIA’s AI strategy”*), the agent autonomously:

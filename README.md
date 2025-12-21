@@ -129,6 +129,18 @@ https://claude.ai/public/artifacts/60938a4d-ae0a-4e58-8bc0-e2e39e9bfa16
 > The production logic lives in the notebook above.
 
 ---
+## 🎥 Project Walkthrough Video
+
+This short walkthrough video explains the design and implementation of the **Autonomous Financial Research Analyst Agent**, including:
+
+- Evolution from reactive LLMs → autonomous agents
+- Tool orchestration and routing logic
+- Retrieval-Augmented Generation (RAG) with ChromaDB
+- Investment analysis workflow and recommendations
+- Key learnings and design trade-offs
+
+▶️ **Watch the full walkthrough:**  
+https://youtu.be/BOFLue-HUks
 
 ## 👤 Author
 

@@ -6,6 +6,12 @@ It was built as part of the **Johns Hopkins Agentic AI course**
 
 Unlike traditional chatbots, this system is designed as a **goal-oriented, tool-driven agent** with constrained autonomy, traceability, and robust error handling.
 
+**Claude Artifact Demo:**  
+https://claude.ai/public/artifacts/60938a4d-ae0a-4e58-8bc0-e2e39e9bfa16
+
+> This demo is for **education and communication** only.  
+> The production logic lives in the notebook above.
+
 ## 📊 Autonomous Financial Research Analyst – 
 
 
